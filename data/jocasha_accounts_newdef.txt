@@ -1,0 +1,12 @@
+#Jocasha account records - password hashes only
+#Tue Oct 27 21:13:31 PST 2026
+count=1
+nextId=2
+user.0.attempts=0
+user.0.blocked=false
+user.0.hash=SHA256\:r0JImHwxCp+Q/F0PVBLIqR8jmOnY9HtE++4hefvZhts\=
+user.0.id=U001
+user.0.name=Manny Pacquiao
+user.0.role=Admin
+user.0.salt=vUUBUeqE55Xs28Jt4BiPlA\=\=
+user.0.username=admin1

@@ -1,0 +1,52 @@
+#Jocasha account records - password hashes only
+#Wed Oct 28 09:10:58 PST 2026
+count=6
+nextId=8
+user.0.attempts=0
+user.0.blocked=false
+user.0.hash=SHA256\:+RTbacFCFD3xuHReuZMUd2Jt0aLzlOVhXoJku3As7ls\=
+user.0.id=U001
+user.0.name=Peter Griffin
+user.0.role=Admin
+user.0.salt=YMt9z3jAA+DEYM7q6sKgnQ\=\=
+user.0.username=admin1
+user.1.attempts=0
+user.1.blocked=false
+user.1.hash=SHA256\:YPGJ6OQtjK3ZUVXc7i4rqUtOP+66jDW4t6dgDQv086U\=
+user.1.id=U003
+user.1.name=Manny Pacquiao
+user.1.role=Admin
+user.1.salt=esVyF8Va1MkrTt0cNMZjYQ\=\=
+user.1.username=admin2
+user.2.attempts=0
+user.2.blocked=false
+user.2.hash=SHA256\:7dFhrF/G9YugHJDp+s/P0DvL8PAEr2onf8VI2Ie5Ctw\=
+user.2.id=U004
+user.2.name=Ara Mina
+user.2.role=Employee
+user.2.salt=I0zSDRrXEoYMk9q09d0W+g\=\=
+user.2.username=employ2
+user.3.attempts=0
+user.3.blocked=false
+user.3.hash=SHA256\:O2E7lo5KN9Zw8rsZKszqsf06Qv/bZGYeGnggP5CQf8Y\=
+user.3.id=U005
+user.3.name=Lebleb Macalintal
+user.3.role=Admin
+user.3.salt=eWhC0SbpTseT8ML8wV3NEA\=\=
+user.3.username=admin3
+user.4.attempts=0
+user.4.blocked=false
+user.4.hash=SHA256\:dqK2P95mNgLIMZB0y8cOKGx3lMabjSFOBW/AOHavZ24\=
+user.4.id=U006
+user.4.name=Sadielyn Sinco
+user.4.role=Employee
+user.4.salt=Z60cFlRZpcaJL0wCgZD9HQ\=\=
+user.4.username=employ1
+user.5.attempts=0
+user.5.blocked=false
+user.5.hash=SHA256\:vZnLclHLyk7D8PF/7onxz1OFZA5eZPLOWFkE+qDfSlY\=
+user.5.id=U007
+user.5.name=Gabo Maderado
+user.5.role=Employee
+user.5.salt=8CRACNnWV7JQ3UULy0huYw\=\=
+user.5.username=employ3
